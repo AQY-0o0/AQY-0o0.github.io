@@ -578,7 +578,7 @@ body.custom-font-enabled {
 }
 a {
 	outline: none;
-	color: rgb(81, 165, 168); /*Article Title Normal*/
+	color: rgb(250, 21, 90); /*Article Title Normal*/
     text-decoration: none;
 }
 a:hover {
@@ -641,7 +641,7 @@ a:hover {
 .site {
 	padding: 0 24px;
 	padding: 0 1.714285714rem;
-	background-color: rgba(255, 255, 255, 0.20); /* Main Page */
+	background-color: rgba(255, 255, 255, 0.70); /* Main Page */
 }
 .site-content {
 	margin: 24px 0 0;
@@ -942,7 +942,7 @@ article.sticky .featured-post {
 
 .entry-content a,
 .comment-content a {
-	color: rgb(81, 165, 168); /* Link in Article Content Normal */
+	color: rgb(250, 21, 90); /* Link in Article Content Normal */
 }
 
 .entry-content a:Hover,
@@ -1839,7 +1839,7 @@ img#wpstats {
 		margin-top: 3.428571429rem;
 		margin-bottom: 48px;
 		margin-bottom: 3.428571429rem;
-		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.65);
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
 	}
 	body.custom-background-empty {
 		background-color: #fff;
